@@ -1,1 +1,1 @@
-# Java-SprintBoot-GIC_Cafe_Sales_Management-
+# Java-SprintBoot-GIC_Cafe_Sales_Management-System
